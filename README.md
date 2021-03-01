@@ -1,4 +1,4 @@
-# PyTorch_basic
+# PyTorch_edulist
 
 ### PyTorch Udemy
 * Linear Regression, Logistic Regression, Deep Neural Networks, MNIST, CIFAR10, Transfer Learning, Style Transfer
